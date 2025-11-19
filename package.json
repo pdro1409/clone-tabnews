@@ -4,7 +4,8 @@
   "description": "Repositório criado para acompanhar as aulas e projetos do curso.dev.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "",
   "license": "ISC",
